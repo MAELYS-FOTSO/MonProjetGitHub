@@ -1,2 +1,3 @@
 structure de notre site 
+l'ecommerce designe le commerce en ligne :donc la vente en ligne
 
