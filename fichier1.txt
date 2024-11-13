@@ -1,3 +1,9 @@
 structure de notre site 
 l'ecommerce designe le commerce en ligne :donc la vente en ligne
 test de la nouvelle fonctionnalite 
+
+test optimisation
+je fais de nouveaux commits
+pour simuler les etapes de mon travail
+je suis de retour pour tester la fonctionnalite du git squash
+see you next 
