@@ -1,2 +1,1 @@
-ligne ajoutée par feature-a
-bonjour
+ligne ajoutée par feature-b
